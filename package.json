@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_alejandroandrada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aandgri0210-1/Primer_ejemplo_gitflow_AlejandroAndrada.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aandgri0210-1/Primer_ejemplo_gitflow_AlejandroAndrada/issues"
+  },
+  "homepage": "https://github.com/aandgri0210-1/Primer_ejemplo_gitflow_AlejandroAndrada#readme",
+  "dependencies": {
+    "mongose": "^0.0.2-security"
+  }
+}
